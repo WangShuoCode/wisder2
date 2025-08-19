@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cards/Draft/Sn码组装表/","tags":["江淮毅昌/蝶创I-MES/MES"]}
+{"dg-publish":true,"permalink":"/cards/draft/sn/","tags":["江淮毅昌/蝶创I-MES/MES"]}
 ---
 
 

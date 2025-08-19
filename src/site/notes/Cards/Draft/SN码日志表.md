@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cards/Draft/SN码日志表/","tags":["江淮毅昌/蝶创I-MES/MES"]}
+{"dg-publish":true,"permalink":"/cards/draft/sn/","tags":["江淮毅昌/蝶创I-MES/MES"]}
 ---
 
 
