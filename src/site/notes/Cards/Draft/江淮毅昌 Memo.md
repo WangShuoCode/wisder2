@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/draft/memo/","tags":["江淮毅昌"]}
+{"dg-publish":true,"permalink":"/Cards/Draft/江淮毅昌 Memo/","tags":["江淮毅昌"]}
 ---
 
 ### 物理信息
