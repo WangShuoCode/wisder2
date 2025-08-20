@@ -17,4 +17,4 @@
 | 所属库位     | location_id       |                                                                    |
 | 打印次数     | print_cnt         |                                                                    |
 | 最后操作时间   | last_operate_time |                                                                    |
-| 日志表位置    | table_name        | 根据gidx计算，每一百万条SN的所有操作记录在一个表中。                                      |
+| 日志表位置    | table_name        | 根据gidx计算，每一百万条SN的所有操作记录在一个表中。例SN_log_1                             |
