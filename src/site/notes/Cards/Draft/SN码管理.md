@@ -8,10 +8,10 @@
 
 
 > [!abstract] 关联信息
-> - 展示表：[[Cards/Draft/SN码最新状态表\|SN码最新状态表]]、[[Cards/Draft/SN码日志表\|SN码日志表]]
+> - 展示表：[[Cards/Draft/SN码最新状态表\|SN码最新状态表]]、[[Cards/Draft/SN码日志表\|SN码日志表]]、[[Cards/Draft/Sn码组装表\|Sn码组装表]]、[[Cards/Draft/SN码单据关联表\|SN码单据关联表]]、
 > - 按钮列表
-> 	- 按钮 1：接口1
-> 	- 按钮 2：接口2
+> 	- 生成：
+> 	- ：
 
 ---
 
