@@ -8,7 +8,7 @@
 ![Pasted image 20250820134731.png](/img/user/Extras/Attachments/Pasted%20image%2020250820134731.png)
 
 
-> [!abstract] 关联信息
+> [!abstract] 页面信息
 > - 展示表：[[Cards/Draft/SN码最新状态表\|SN码最新状态表]]、[[Cards/Draft/SN码日志表\|SN码日志表]]、[[Cards/Draft/SN码单据关联表\|SN码单据关联表]]
 > - 接口列表
 > 	- 生成
@@ -24,6 +24,8 @@
 > 		- 分离数据与校验位
 > 			- 调用计算校验的函数，得到期望值
 > 			- 做对比
+> 	- 物料绑定接口（通用接口）
+> 		- 传入单据类型、单据id、物料id
 
 
 ---
