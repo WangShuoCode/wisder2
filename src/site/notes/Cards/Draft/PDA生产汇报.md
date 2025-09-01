@@ -19,13 +19,59 @@
 
 
 
-### 列表页面
+### 汇报页面
 
 图片
 
 > [!abstract] 页面信息
 > - 相关表：
 > - 相关接口：
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Cards/Draft/PDA波次汇报/#sn" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+#### 扫描SN码校验接口
+
+进入扫码界面后，用户开始扫码，每扫一次码，对SN码绑定物料进行校验。
+
+- 获取SN码绑定的物料，及约束校验
+	- 若无SN码未绑定物料，不进行任何约束
+	- 校验位错误，拦截
+	- 检测合格状态是否为合格
+	- 检验库存状态为线边库
+- 检测此SN码的库存是否处于线边仓
+- 查询此物料是否在此作业单的生产订单明细行的生产用料清单的物料中，且此物料需为启用SN码管理
+- 查询此作业单工序的类型，如为拆卸类型或组装类型，则需要扫描物料清单中所有启用SN码管理的物料，扫描后「已扫数量」+1
+
+---
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Cards/Draft/PDA波次汇报/#" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### 波次汇报列表页面
+
+![Pasted image 20250901180937.png](/img/user/Extras/Attachments/Pasted%20image%2020250901180937.png)
+
+> [!abstract] 页面信息
+> - 相关表：[[Cards/Draft/作业波次表\|作业波次表]]
+> - 相关接口：
+
+显示当前登录人的工序且「开工日期」大于「今日」的波次单。
+
+点击波次单卡片，进入波次单子设备序号为1的作业单详情。
+
+---
+
+
+</div></div>
 
 
 
