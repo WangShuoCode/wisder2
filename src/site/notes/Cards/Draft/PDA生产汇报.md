@@ -5,27 +5,23 @@
 
 
 ### 作业单界面
-
+![Pasted image 20250910133956.png](/img/user/Extras/Attachments/Pasted%20image%2020250910133956.png)
+![Pasted image 20250910134004.png](/img/user/Extras/Attachments/Pasted%20image%2020250910134004.png)
 
 
 > [!abstract] 页面信息
-> - 相关表：
+> - 相关表：[[Cards/Draft/生产作业单表\|生产作业单表]]、[[Cards/Draft/作业汇报单表\|作业汇报单表]]
 > - 相关接口：
-
-
-
 
 ---
 
-
-
 ### 汇报页面
 
-图片
+![Pasted image 20250910134154.png](/img/user/Extras/Attachments/Pasted%20image%2020250910134154.png)
 
 > [!abstract] 页面信息
-> - 相关表：
-> - 相关接口：
+> - 相关表：[[Cards/Draft/生产作业单表\|生产作业单表]]、[[Cards/Draft/作业汇报单表\|作业汇报单表]]
+> - 相关接口：开始汇报(WorkReport.Start)、汇报单保存(WorkReport.Save)、SN/容器码 校验(WorkReport.NumberValidate)
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Cards/Draft/PDA波次汇报/#sn" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
