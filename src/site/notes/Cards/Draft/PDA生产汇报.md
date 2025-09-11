@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cards/Draft/PDA生产汇报/","tags":["江淮毅昌/蝶创I-MES/MES"]}
+{"dg-publish":true,"permalink":"/Cards/Draft/PDA生产汇报/","tags":["蝶创I-MES/MES/江淮毅昌"]}
 ---
 
 
